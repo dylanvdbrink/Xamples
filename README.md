@@ -3,4 +3,4 @@
 Xamarin examples
 
 ## iOS
-* DocScan
+* DocScan - Using VisionKit (`VNDocumentCameraViewController`) to create scans of documents
